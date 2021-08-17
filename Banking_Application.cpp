@@ -1,7 +1,6 @@
 // Basic Banking Application 
 
 /*
-    Developer: Vedang Patel
     Source: C++ Reference Books
     Date: 9th October, 2020
 */
